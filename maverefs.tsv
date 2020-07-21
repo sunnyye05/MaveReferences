@@ -167,25 +167,23 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 32385156	10.1073/pnas.1918680117 	Mehlhoff	2020	DMS	TEM-1 BL	E.coli	Growth	NNN PCR	Illlumina	PRJNA565437 	XLS
 32554590	10.1126/science.aaz5143	Wu	2020	DMS	HA	Influenza	Growth	NNS/NNK PCR	Illlumina	PRJNA510654, PRJNA493101, PRJNA510700 	TXT
 32587970	10.1101/2020.06.17.157982	Starr	2020	DMS	SARS-CoV-2 spike	yeast	Yeast display	NNS PCR	Illlumina	PRJNA639956 	TXT
-32543109	10.15252/msb.20209640	Ivanova	2020	DMS							
-32511321	10.1101/2020.03.16.994236	Procko	2020	DMS	SARS-CoV-2	Human					
-32313011	10.1038/s41467-020-15796-7	Despres 	2020	DMS							
-32238226	10.1099/mgen.0.000364	Andrews	2020	DMS	E. coli	LamB					
-32194983	10.1038/s41525-020-0119-2	Lauschke	2020	DMS							
-32183714	10.1186/s12859-020-3439-4	Reeb	2020	DMS							
-32175691	10.15252/msb.20199265	Choudhury 	2020	DMS	E. coli	CRISPR/Cas9					
-32144244	10.1038/s41467-020-15102-5	Wu	2020	DMS	Influenza H3N2 Viruses						
-32119660	10.1371/journal.pcbi.1007630	Bravi	2020	DMS							
-32098152	10.3390/v12020241	Roop	2020	DMS	HIV-1 envelope 	Macaque CD4 and CCR5					
-32087409	10.1016/j.sbi.2020.01.005	Ebo	2020	DMS							
-32019920	10.1038/s41467-020-14495-7	Yoo	2020	DMS		GPCR					
-32000841	10.1186/s13073-020-0711-1	Sun	2020	DMS	Cystathionine Beta-Synthase						
-31928070	10.1161/CIRCGEN.119.002786	Glazer	2020	DMS	SCN5A Voltage Sensor						
-31897449	10.21105/joss.01915	Crawford 	2019	DMS							
-31872260	10.1093/nar/gkz1192	Zhang	2020	DMS							
-31862013	10.1186/s13073-019-0698-7	Gelman	2019	DMS							
-31825605	10.1021/acssynbio.9b00411	Faber	2020	DMS	Infective ?X174 Bacteriophage	Unamplified Oligo Pools and Golden Gate Assembly					
-31822668	10.1038/s41467-019-13633-0	Ding	2019	DMS		Latent Space Model					
-31796585	10.1073/pnas.1915562116	McShan	2019	DMS	MHC-I						
-31745561	10.1093/nar/gkz1110	Maestas	2020	DMS							
+32511321	10.1101/2020.03.16.994236	Procko	2020	DMS	SARS-CoV-2 spike, ACE2	Human	binding	SSM, deep mutagenesis?	Illumina		XLS
+32313011	10.1038/s41467-020-15796-7	Despres 	2020	DMS	Target-AID base editor derived from CRISPR-Cas9	yeast	base editing outcomes 	Targeted AID-mediated mutagenesis (TAM)	Illumina		XLS
+32238226	10.1099/mgen.0.000364	Andrews	2020	DMS	E. coli LamB	LamB	sensitivity, transport	site-directed mutagenesis	Illumina		TXT, pdf
+32194983	10.1038/s41525-020-0119-2	Lauschke	2020	DMS	pharmacogenomic variants 	human	drug response (sensitivity, specificity)	oligonucleotide-directed mutagenesis	?		discussed in paper 
+32175691	10.15252/msb.20199265	Choudhury 	2020	DMS	essential genes of E. coli	E. coli	mutation frequency 	CRISPR/Cas9-mediated genomic error-prone editing 	Illumina 		PDF
+32144244	10.1038/s41467-020-15102-5	Wu	2020	DMS	HA antigenic site B	human H3N2 influenza viruses	fitness landscapes	?	Illumina		TXT
+32119660	10.1371/journal.pcbi.1007630	Bravi	2020	DMS	allosteric proteins	?	epistasis 	DCA?	?		PDF
+32098152	10.3390/v12020241	Roop	2020	DMS	HIV-1 envelope 	Macaque CD4 and CCR5	NHR and CHR mutations	PCR-mediated site-directed	?		PDF
+32019920	10.1038/s41467-020-14495-7	Yoo	2020	DMS	G protein-coupled receptor	human	binding, epistasis 	BRIDGE?	?		PDF
+32000841	10.1186/s13073-020-0711-1	Sun	2020	DMS	Cystathionine Beta-Synthase	yeast	binding	Saturation codon-mutagenesis	Illumina		XLS
+31928070	10.1161/CIRCGEN.119.002786	Glazer	2020	DMS	SCN5A Voltage Sensor	HEK 293T cells	abnormal function 	?	?	none	none
+31872260	10.1093/nar/gkz1192	Zhang	2020	DMS	CPEB3 ribozyme	?	sensitivity, precision 	error prone pcr	Illumina 		DOC
+31825605	10.1021/acssynbio.9b00411	Faber	2020	DMS	Infective ?X174 Bacteriophage (spike and capsid proteins)	?	mutation variants 	Unamplified Oligo Pools, NM, Golden Gate Assembly	Illumina		TXT
+31796585	10.1073/pnas.1915562116	McShan	2019	DMS	MHC-I and chaperone TAPBPR	?	folding, binding	Bimolecular fluorescence complementation 	Illumina		PDF
 31727844	10.1073/pnas.1916916116	Tang	2019	DMS	PD-1/PD-L2 Complex	yeast					
+32671094	10.3389/fmolb.2020.00100	Rogers	2020	DMS	unnatural amino acids, IDP, cyclic peptides 	?	protein binding and folding 	Non-canonical mutagenesis (?)	?	No (?)	No (?) mentioend in discussion 
+32641900	10.1007/s00044-020-02582-9	Fenton	2020	DMS	rheostat position / protein positions 	?	amino acid changes	?	Illumina ?	no?	TXT
+32627955	10.15252/msb.20199380	Livesey	2020	DMS	variant effect predictors (VEPs)	human proteins, yeast, E. coli	phenotype predictions	?	?		XLS
+32559251	10.1371/journal.ppat.1008647	Park	2020	DMS	Soluble receptors as treatment for HCMV	human	binding	single site-saturation mutagenesis (SSM)	illumina		TIF
+32004414	10.1111/cts.12758	Zhang 	2020	DMS	ORFs of pharmacogenes (CYP2C9 and CYP2C19) 	HEK 293T landing pad cells 	variant abundance ?	FACS?	?		DOC
