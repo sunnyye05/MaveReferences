@@ -189,7 +189,6 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 31267113	10.1038/s41587-019-0164-5	Sample	2019	MPRA	5' UTR	human cells	polysome profiling	random bases	Illumina	GSE114002	No
 31325330	10.1002/prot.25786 	Warszawski	2020	DMS	basigin	Yeast	Binding, expression	NNS PCR	Illumina (barcoded)	No	XLS
 31395865	10.1038/s41467-019-11526-w	Kircher	2019	MPRA	Multiple mammalian promoters and enhancers	multiple cell lines	Transcription	error-prone PCR	Illumina	GSE126550 	TXT
-<<<<<<< HEAD											
 31697803	10.1182/blood.2019002561  	Bridgford	2020	DMS	MPL	Ba/F3 cells	Growth	NNN PCR	Illumina	SRR10193506	TXT
 32385156	10.1073/pnas.1918680117 	Mehlhoff	2020	DMS	TEM-1 BL	E.coli	Growth	NNN PCR	Illumina	PRJNA565437 	XLS
 32554590	10.1126/science.aaz5143	Wu	2020	DMS	HA	Influenza	Growth	NNS/NNK PCR	Illumina	PRJNA510654, PRJNA493101, PRJNA510700 	TXT
