@@ -167,12 +167,12 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 32385156	10.1073/pnas.1918680117 	Mehlhoff	2020	DMS	TEM-1 BL	E.coli	Growth	NNN PCR	Illlumina	PRJNA565437 	XLS
 32554590	10.1126/science.aaz5143	Wu	2020	DMS	HA	Influenza	Growth	NNS/NNK PCR	Illlumina	PRJNA510654, PRJNA493101, PRJNA510700 	TXT
 32587970	10.1101/2020.06.17.157982	Starr	2020	DMS	SARS-CoV-2 spike	yeast	Yeast display	NNS PCR	Illlumina	PRJNA639956 	TXT
-32511321	10.1101/2020.03.16.994236	Procko	2020	DMS	SARS-CoV-2 spike, ACE2	Human	binding	SSM, deep mutagenesis?	Illumina		XLS
+x32511321	10.1101/2020.03.16.994236	Procko	2020	DMS	SARS-CoV-2 spike, ACE2	Human	binding	SSM, deep mutagenesis?	Illumina		XLS
 32313011	10.1038/s41467-020-15796-7	Despres 	2020	DMS	Target-AID base editor derived from CRISPR-Cas9	yeast	base editing outcomes 	Targeted AID-mediated mutagenesis (TAM)	Illumina		XLS
 32238226	10.1099/mgen.0.000364	Andrews	2020	DMS	E. coli LamB	LamB	sensitivity, transport	site-directed mutagenesis	Illumina		TXT, pdf
 32194983	10.1038/s41525-020-0119-2	Lauschke	2020	DMS	pharmacogenomic variants 	human	drug response (sensitivity, specificity)	oligonucleotide-directed mutagenesis	?		discussed in paper 
-32175691	10.15252/msb.20199265	Choudhury 	2020	DMS	essential genes of E. coli	E. coli	mutation frequency 	CRISPR/Cas9-mediated genomic error-prone editing 	Illumina 		PDF
-32144244	10.1038/s41467-020-15102-5	Wu	2020	DMS	HA antigenic site B	human H3N2 influenza viruses	fitness landscapes	?	Illumina		TXT
+x32175691	10.15252/msb.20199265	Choudhury 	2020	DMS	essential genes of E. coli	E. coli	mutation frequency 	CRISPR/Cas9-mediated genomic error-prone editing 	Illumina 		PDF
+x32144244	10.1038/s41467-020-15102-5	Wu	2020	DMS	HA antigenic site B	human H3N2 influenza viruses	fitness landscapes	?	Illumina		TXT
 32119660	10.1371/journal.pcbi.1007630	Bravi	2020	DMS	allosteric proteins	?	epistasis 	DCA?	?		PDF
 32098152	10.3390/v12020241	Roop	2020	DMS	HIV-1 envelope 	Macaque CD4 and CCR5	NHR and CHR mutations	PCR-mediated site-directed	?		PDF
 32019920	10.1038/s41467-020-14495-7	Yoo	2020	DMS	G protein-coupled receptor	human	binding, epistasis 	BRIDGE?	?		PDF
