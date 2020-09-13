@@ -60,7 +60,7 @@ PMID	DOI	First author	Year	Type	Molecule	Model	Selection Type	Mutagenesis Type	S
 25522661	10.1186/s12977-014-0124-6	Al-Mawsawi	2014	DMS	HIV genome	HIV	Growth	error-prone PCR	Illumina	PRJNA259391	XLS
 25559584	10.1038/nmeth.3223	Kitzman	2014	DMS	Gal4	Yeast	Growth	PALS (array+PCR)	Illumina (barcoded and subassembly)	PRJNA268398	No
 25657251	10.1126/science.1257360	Podgornaia	2015	DMS	PhoQ	Bacteria	FACS	NNS PCR	Illumina	No	No
-25723163	10.1016/j.cell.2015.01.035	Stiffler	2015	DMS	TEM1 B-lactamase	E.coli	Growth	NNS PCR	Illumina	No	XLS
+25723163	10.1016/j.cell.2015.01.035	Stiffler	2015	DMS	TEM1 B-lactamase	E.coli	sGrowth	NNS PCR	Illumina	No	XLS
 25823446	10.1534/genetics.115.175802	Starita	2015	DMS	BRCA1	Yeast, Phage	Growth, Binding	microarray synthesis	Illumina (barcoded and subassembly)	No	XLS
 25875337	10.1371/journal.pgen.1005147	Shalem	2015	MPRA	3' UTR	Yeast	Fluorescence, Transcription	microarray synthesis	Illumina	No	XLS
 26040002	10.1073/pnas.1422285112	Romero	2015	DMS	Bgl2	Bacteria/microfluidic droplets	Activity	error-prone PCR	Illumina	No	No
@@ -214,7 +214,6 @@ x32144244	10.1038/s41467-020-15102-5	Wu	2020	DMS	HA antigenic site B	human H3N2 
 32627955	10.15252/msb.20199380	Livesey	2020	DMS	variant effect predictors (VEPs)	human proteins, yeast, E. coli	phenotype predictions	?	?		XLS
 32559251	10.1371/journal.ppat.1008647	Park	2020	DMS	Soluble receptors as treatment for HCMV	human	binding	single site-saturation mutagenesis (SSM)	illumina		TIF
 32004414	10.1111/cts.12758	Zhang 	2020	DMS	ORFs of pharmacogenes (CYP2C9 and CYP2C19) 	HEK 293T landing pad cells 	variant abundance ?	FACS?	?		DOC
-Err:510											
 31400199	10.1093/molbev/msz184 	Faber	2019	DMS	AmiE	E.coli	Growth	Pfunkel	Illumina (barcoded)	SRA SAMN11258744-SAMN11258771	XLS
 31442220	10.1371/journal.pcbi.1007207 	Warszawski	2019	DMS	IgG	Yeast	Binding, expression	NNS PCR	Illumina (barcoded)	https://www.addgene.org/110212/	XLS
 31511387	10.1128/JVI.01291-19 	Sourisseau	2019	DMS	Zika envelope	Human/Zika	viral replication	NNN PCR	Illumina (barcoded)	PRJNA530795	XLS
@@ -242,4 +241,3 @@ Err:510
 -	10.1101/2020.05.10.087312 	Chiasson	2020	DMS	VKOR	HEK293T	VAMP-seq	Mutagenesis primer	Illumina (barcoded)	GSE149922	No (preprint)
 -	10.1101/2020.06.26.174375 	Nedrud	2020	DMS	PSD95 PDZ	E.coli	Binding	oligo synthesis	Illumina	No (private)	No (private)
 -	10.1101/623108 	Jones	2020	DMS	ADRB2	HEK293T	Receptor activity	oligo synthesis	Illumina (barcoded)	No (preprint)	TSV
->>>>>>> upstream/master											
