@@ -240,3 +240,7 @@ x32144244	10.1038/s41467-020-15102-5	Wu	2020	DMS	HA antigenic site B	human H3N2 
 -	10.1101/2020.05.10.087312 	Chiasson	2020	DMS	VKOR	HEK293T	VAMP-seq	Mutagenesis primer	Illumina (barcoded)	GSE149922	No (preprint)
 -	10.1101/2020.06.26.174375 	Nedrud	2020	DMS	PSD95 PDZ	E.coli	Binding	oligo synthesis	Illumina	No (private)	No (private)
 -	10.1101/623108 	Jones	2020	DMS	ADRB2	HEK293T	Receptor activity	oligo synthesis	Illumina (barcoded)	No (preprint)	TSV
+32000841	10.1186/s13073-020-0711-1	Sun	2020	DMS	CBS gene	E. coli	variant function 	Oligo-directed codon-randomization mutagenesis 	illumina 	?	XLS
+31645757	10.1038/s41586-019-1639-8	McClune	2019	DMS	Kinase-substrate pairs / orthogonal signaling pathways	E. coli	sequence space crowdedness ?	?	illumina	?	XLS
+31609039	10.15252/embj.2019102145	Kennouche	2019	DMS	Neisseria meningitidis major pilin, TFP	pilE gene	aggregation and adhesion	saturation mutagenesis 	illumina	?	?
+31574080	10.1371/journal.pbio.3000181	Colon-Thillet 	2019	DMS	antiviral proteins, THOV	human MxA	restrictive properties, binding	combinatorial mutagenesis 	?	?	XLS
